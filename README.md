@@ -14,3 +14,14 @@ To use it install all the files and remove the 2 files README.md and LICENSE
 
 After that install NASM from https://www.nasm.us/pub/nasm/releasebuilds/?C=M;O=D and use GoLink to convert the .asm into a .obj
 If aiming as .so library then use gcc
+
+command to convert .asm to .obj
+if for windows
+nasm -f win64 SourcePLayer_win.asm - SourcePLayer_win.obj
+If for linux
+If aiming as Linux then do
+nasm -f elf64 SourcePlayer_Linux.asm -o SourcePlayer_Linux.obj
+
+IDKhow to link obj as dll or so in compilers like GoLink and GCC you must know them or ask ChatGPT How to compile
+
+
