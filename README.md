@@ -52,8 +52,13 @@ Chris@Chris-ThinkPad-T14s-Gen-2i$ ./FuFact.sh
 
 ### 🧠 Fun Fact
 
-The programmer’s name is **Paul**, and he's also a **Boy Scout**!  
+The programmer’s name is **Chris**, and he's also a **Boy Scout**!  
 He codes from a ThinkPad with love and chaos.
+
+
+# Fun Fact about the engine itself
+did you know that this is an in house but open SOURCE game engine?. That's right it is open source but in house 💀💀💀💀💀
+
 
 
 
