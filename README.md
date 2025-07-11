@@ -22,6 +22,12 @@ If for linux
 If aiming as Linux then do
 nasm -f elf64 SourcePlayer_Linux.asm -o SourcePlayer_Linux.obj
 
-IDKhow to link obj as dll or so in compilers like GoLink and GCC you must know them or ask ChatGPT How to compile
+after that use GoLink
+GoLink.exe /dll /entry _DllMainCRTStartup SourcePLayer_win.obj _start
+
+
+why not for linux as .so
+IDK how to use gcc
+
 
 
