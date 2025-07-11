@@ -30,4 +30,33 @@ why not for linux as .so
 IDK how to use gcc
 
 
+# 👨‍💻 About the Programmer Who Wrote the Engine
+
+The developer behind **PySource** is an **11-year-old Grade 7 student** who used tools like **ChatGPT** to help convert parts of the **Ursina engine** into **Pygame**.
+
+He’s a passionate young coder who knows:
+**PHP, Dart, GML, Python, x86 Assembly, VBScript, Fortran, Java, JavaScript, C/C++, C#, Ruby, Rust, R, Lua, Scratch**, and **Adacraft**.  
+He also enjoys **wiring electronics**, loves **retro tech**, and is a fan of:
+- Anime (especially girls wearing towels 😅)
+- **GTA**, **Minecraft**, **Portal**
+- **RollerCoaster Tycoon**
+
+> "Yes, a 7th grader really made this game engine."
+
+You can check out his games and projects here:  
+👉 **[My itch.io page](https://saturn-computing-topic.itch.io/)**
+
+---
+
+Chris@Chris-ThinkPad-T14s-Gen-2i$ ./FuFact.sh
+
+### 🧠 Fun Fact
+
+The programmer’s name is **Paul**, and he's also a **Boy Scout**!  
+He codes from a ThinkPad with love and chaos.
+
+
+
+
+
 
