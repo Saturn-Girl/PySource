@@ -41,7 +41,7 @@ He also enjoys **wiring electronics**, loves **retro tech**, and is a fan of:
 - **GTA**, **Minecraft**, **Portal**
 - **RollerCoaster Tycoon**
 
-> "Yes, a 7th grader really made this game engine."
+> "Yes, a 7th grader/boy scout really made this game engine."
 
 You can check out his games and projects here:  
 👉 **[My itch.io page](https://saturn-computing-topic.itch.io/)**
