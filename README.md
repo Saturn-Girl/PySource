@@ -57,7 +57,7 @@ He codes from a ThinkPad with love and chaos.
 
 
 # Fun Fact about the engine itself
-did you know that this is an in house but open SOURCE game engine?. That's right it is open source but in house 💀💀💀💀💀
+did you know that this is an in house but open SOURCE game engine?. That's right it is open source but in house 💀💀💀💀💀. That's right he has the __init__.py in his computer
 
 
 
